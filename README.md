@@ -1,275 +1,182 @@
 <div align="center">
 
-  <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=230&section=header&text=Muhammad%20Abdullah&fontSize=42&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%20%26%20Automation%20Architect%20%7C%20Full%20Stack%20Developer&descFontSize=17&descAlignY=62&fontColor=ffffff&animation=fadeIn" width="100%" alt="Muhammad Abdullah Header Banner" />
+  <!-- TOP HERO BANNER (Animated Waving Gradient) -->
+  <a href="https://malikabdullah1786.tarzify.com">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=250&section=header&text=MUHAMMAD%20ABDULLAH&fontSize=44&fontAlignY=36&desc=Full%20Stack%20Architect%20%E2%80%A2%20AI%20%26%20Workflow%20Automation%20Expert%20%E2%80%A2%20Cloud%20Engineer&descFontSize=17&descAlignY=60&fontColor=ffffff&animation=fadeIn" width="100%" alt="Muhammad Abdullah - Hero Banner" />
+  </a>
 
-  <!-- Animated Typing Subtitle -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Enterprise+Full-Stack+%26+Distributed+Systems;Autonomous+AI+Agents+%7C+LLMs+%7C+250%2B+n8n+Automations;Cloud+%26+DevOps+Engineer+(Azure%2C+AWS%2C+Docker%2C+CI%2FCD);BS+Software+Engineering+%40+FAST-NUCES+Lahore" alt="Typing SVG" />
+  <!-- DYNAMIC ANIMATED TYPING TERMINAL -->
+  <a href="https://malikabdullah1786.tarzify.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Architecting+Scalable+Full-Stack+%26+Microservices+Platforms;%F0%9F%A4%96+Deploying+Autonomous+AI+Agents+%26+250%2B+n8n+Automations;%E2%98%81%EF%B8%8F+DevOps+%26+Cloud+Pipelines+(Azure+%7C+AWS+%7C+Docker+%7C+CI%2FCD);%F0%9F%8E%93+BS+Software+Engineering+%40+FAST-NUCES+Lahore" alt="Typing Terminal" />
   </a>
 
   <br/><br/>
 
-  <!-- Social & Contact Badges -->
+  <!-- QUICK ACTION / NAVIGATION BADGES -->
   <a href="https://linkedin.com/in/malikabdullah1786" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://malikabdullah1786.tarzify.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio%20Website-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:malikabdullah1786@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/malikabdullah1786">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub%20Profile-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="tel:+923094561786">
-    <img src="https://img.shields.io/badge/Phone-+92--309--456--1786-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <a href="https://wa.me/923094561786" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+
+  <br/><br/>
+
+  <!-- 3D PROFILE TROPHIES -->
+  <a href="https://github.com/malikabdullah1786">
+    <img src="https://github-profile-trophy.vercel.app/?username=malikabdullah1786&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Muhammad Abdullah Trophies" />
   </a>
 
 </div>
 
----
-
-## 📌 Executive Summary
-
-I am a **Software Engineer**, **AI Implementation & Automation Expert**, and **Full-Stack Developer** based in Lahore, Pakistan, currently pursuing my **BS in Software Engineering at FAST-NUCES** (2024–2028).
-
-With experience across startup engineering, high-scale workflow automations, and enterprise-grade backend systems, I specialize in:
-- **Scalable Full-Stack Web & SaaS Architecture**: Architecting high-concurrency backends (Node.js, Spring Boot, .NET Core, Python) and fluid, responsive frontends (React, Next.js, Flutter).
-- **AI Integration & Autonomous Workflows**: Engineering self-hosted **n8n automation pipelines (250+ workflows)**, custom LLM agents (DeepSeek, Gemini, OpenAI), and webhook-driven orchestration engines.
-- **Cloud Infrastructure & DevOps**: Dockerizing distributed microservices, configuring multi-stage **CI/CD pipelines**, and managing cloud deployments on **Microsoft Azure, AWS, Railway, and Vercel**.
-- **Hardware-Software Interoperability & Low-Level Engineering**: Building high-efficiency desktop software in **C++ / Qt** and bridging low-level C device drivers with high-level Java/Python IPC runtimes.
+<br/>
 
 ---
 
-## 💼 Professional Experience
-
-```
-┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
-│  💼 Zenolve — Full Stack Developer, DevOps & Automation Engineer Intern (Jul 2025 – Jun 2026)    │
-└──────────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-- **Enterprise Property Platform Modernization**: Contributed to the UK’s largest property platform utilizing **PHP, Python & Java**; digitized end-to-end property maintenance pipelines including automated expert-verification modules for electrical and plumbing triage.
-- **250+ n8n Automation Workflows**: Architected and deployed 250+ mission-critical n8n automation pipelines handling asynchronous data processing, error recovery, webhook routing, and third-party SaaS integrations.
-- **Cloud & DevOps Orchestration**: Standardized containerized workflows via **Docker**, provisioned cloud infrastructure on **Microsoft Azure & Azure DevOps**, and maintained zero-downtime multi-branch CI/CD release pipelines.
-- **Media Ingestion Engine (Reel Vault)**: Led core engineering for *Reel Vault* — a high-throughput digital media storage and retrieval system optimized for rapid ingestion, compression, and structured retrieval.
-
-```
-┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
-│  🚀 Tarzify — Founder & Lead Engineer (2024 – Present)                                           │
-└──────────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-- **Autonomous AI-Driven E-Commerce**: Engineered a high-conversion digital storefront on **Microsoft Azure** using **React & Next.js**, incorporating custom autonomous AI agents for automated order intake and placement, slashing manual operational overhead by **70%**.
-- **Growth & Performance Optimization**: Spearheaded iterative A/B testing, speed indexing, and SEO architecture, lifting overall organic click-through rates by **25%**.
-- **Visual Branding & Media Assets**: Crafted high-fidelity marketing assets, UX guidelines, and infographics using **Adobe Photoshop & Lightroom**.
+<!-- ABOUT / IDENTITY SECTION -->
+<table width="100%" align="center" border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h2>🚀 About Me & Engineering Philosophy</h2>
+      <p>
+        I am a <b>Software Engineer & AI Automation Architect</b> based in Lahore, Pakistan, pursuing my <b>BS in Software Engineering at FAST-NUCES (2024–2028)</b>. I bridge the gap between heavy enterprise backend infrastructure, modern cloud ecosystems, and autonomous AI automation pipelines.
+      </p>
+      <ul>
+        <li>🏗️ <b>Full-Stack & Distributed Systems:</b> Developing decoupled, high-throughput architectures using <b>React/Next.js, Node.js, Spring Boot, and .NET Core</b>.</li>
+        <li>🤖 <b>Autonomous AI & Workflows:</b> Architect of <b>250+ enterprise n8n workflows</b> and custom LLM agent pipelines (DeepSeek, Gemini, Meta Graph API).</li>
+        <li>☁️ <b>Cloud & DevOps:</b> Experienced with containerization (<b>Docker</b>), CI/CD automation, and cloud deployments on <b>Microsoft Azure & AWS</b>.</li>
+        <li>🏛️ <b>Leadership:</b> Deputy Head of Software at <b>SOFTEC (FAST-NUCES)</b> & Officer at <b>Google Developer Student Club (GDSC)</b>.</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=malikabdullah1786&repo=malikabdullah1786&theme=tokyonight&hide_border=true" width="100%" alt="Profile Pin" />
+      </div>
+      <br/>
+      <table width="100%">
+        <tr>
+          <td>📍 <b>Location:</b></td>
+          <td>Lahore, Pakistan</td>
+        </tr>
+        <tr>
+          <td>🎓 <b>Education:</b></td>
+          <td>FAST-NUCES (BS SE)</td>
+        </tr>
+        <tr>
+          <td>💼 <b>Role:</b></td>
+          <td>Software & AI Engineer</td>
+        </tr>
+        <tr>
+          <td>🌐 <b>Founder:</b></td>
+          <td><a href="https://malikabdullah1786.tarzify.com">Tarzify</a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Comprehensive Technical Skillset
+## 🛠️ Technology Stack & Architecture Ecosystem
 
 <div align="center">
 
 ### 💻 Core Programming Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B%20(Expert)-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript%20(ES6%2B)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java%20(SE%2FEE)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23%20(.NET)-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
 
-### 🌐 Frontend & Mobile Development
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Qt GUI](https://img.shields.io/badge/Qt_Desktop_GUI-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+### 🌐 Frontend & Mobile Ecosystem
+<p>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js%20(App%20Router)-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter%20(Cross--Platform)-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3%20%2F%20Tailwind-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qt%20Desktop%20GUI-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+</p>
 
-### ⚙️ Backend, Frameworks & API Architecture
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge&logo=postman&logoColor=white)
-![IPC Multithreading](https://img.shields.io/badge/IPC_&_Multithreading-2D3748?style=for-the-badge&logo=linux&logoColor=white)
+### ⚙️ Backend, Frameworks & Distributed Systems
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%20Core%20Web%20API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESTful%20Microservices-005571?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multithreading%20%26%20IPC-2D3748?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
 
-### 🤖 AI, LLM Integration & Automation
-![n8n](https://img.shields.io/badge/n8n_Automations_(250+)-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
-![DeepSeek API](https://img.shields.io/badge/DeepSeek_AI_API-1E293B?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Meta Graph API](https://img.shields.io/badge/Meta_Graph_API-0668E1?style=for-the-badge&logo=meta&logoColor=white)
-![Twilio API](https://img.shields.io/badge/Twilio_Automations-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering_%26_RLHF-0284C7?style=for-the-badge&logo=robotframework&logoColor=white)
+### 🤖 AI, LLM Integrations & Workflow Automation
+<p>
+  <img src="https://img.shields.io/badge/n8n%20Workflows%20(250%2B)-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek%20AI%20API-1E293B?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meta%20Graph%20API-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twilio%20Automation-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Eng%20%26%20RLHF-0284C7?style=for-the-badge&logo=robotframework&logoColor=white" />
+</p>
 
 ### ☁️ Cloud, DevOps, CI/CD & Databases
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Azure SQL](https://img.shields.io/badge/Azure_SQL_(ACID)-0089D6?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git & GitHub](https://img.shields.io/badge/Git_%26_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps%20Pipelines-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker%20Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL%20(JPA)-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase%20(Auth%2FDB)-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20SQL%20(ACID)-0089D6?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 </div>
 
 ---
 
-## 🚀 Featured Engineering Projects & Systems
+## 💼 Industry Experience & Engineering Impact
 
 <table>
-  <!-- Row 1: E-Commerce & SaaS -->
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛍️ Tarzify E-Commerce Platform</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
-        <img src="https://img.shields.io/badge/Autonomous_AI-8E75B2?style=flat-square" />
-      </p>
+    <td width="100%">
+      <h3>🏢 Zenolve — Full Stack Developer, DevOps & Automation Engineer Intern</h3>
+      <p><i>July 2025 – June 2026 | London, UK (Remote)</i></p>
       <ul>
-        <li><b>High-Conversion Next.js Storefront:</b> Scalable e-commerce infrastructure deployed on Azure with custom state management and edge rendering.</li>
-        <li><b>Autonomous AI Agent Orders:</b> Integrated intelligent AI agents to automate order reception, confirmation, and customer routing, eliminating <b>70%</b> of manual handling.</li>
-        <li><b>Conversion & SEO:</b> Optimized sales funnel and technical SEO via iterative A/B testing, driving a <b>25%</b> improvement in click-through rates.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💬 Instagram DM Automation SaaS</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Meta_Graph_API-0668E1?style=flat-square&logo=meta&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/Multi--Tenant-FF9900?style=flat-square" />
-      </p>
-      <ul>
-        <li><b>Meta Graph API Trigger Engine:</b> Fully compliant automation supporting keyword comment triggers, story replies, lead capture email gating, and follow-status checks.</li>
-        <li><b>Multi-Tenant Supabase Architecture:</b> Role-based access control, tenant isolation, and event hooks for instantaneous messaging.</li>
-        <li><b>Analytics Dashboard:</b> Real-time metric tracking for message deliveries, campaign conversion funnels, and ROI telemetry.</li>
+        <li><b>UK Property Maintenance Digital Transformation:</b> Modernized enterprise web platform utilizing <b>PHP, Python, and Java</b>, implementing end-to-end automated expert-verification modules for electrical and plumbing diagnostic workflows.</li>
+        <li><b>250+ Production n8n Automations:</b> Designed and deployed 250+ self-hosted n8n pipelines for continuous ingestion, lead processing, webhook triggers, and third-party API sync.</li>
+        <li><b>Docker & Azure DevOps CI/CD:</b> Standardized containerized deployments on Microsoft Azure, configuring multi-stage build pipelines with zero-downtime releases.</li>
+        <li><b>Reel Vault Ingestion Engine:</b> Engineered <i>Reel Vault</i>, a high-efficiency media storage and rapid retrieval system optimized for high-volume multimedia assets.</li>
       </ul>
     </td>
   </tr>
-
-  <!-- Row 2: Distributed Airline & Twilio Hospitality -->
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">✈️ Aerosync — Distributed Airline System</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/.NET_C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/Azure_SQL-0089D6?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-        <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-      </p>
+    <td width="100%">
+      <h3>🛍️ Tarzify — Founder & Lead Software Engineer</h3>
+      <p><i>2024 – Present | Lahore, Pakistan</i></p>
       <ul>
-        <li><b>ACID & Concurrency Control:</b> Architected Azure SQL database schema with custom triggers and transactional locks to prevent seat double-booking race conditions.</li>
-        <li><b>High-Throughput .NET Core API:</b> Engineered RESTful backend on Railway delivering low-latency flight booking and ticketing logic.</li>
-        <li><b>Decoupled Client:</b> Real-time ticketing UI deployed on Vercel with asynchronous state synchronization.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏨 London Hospitality SaaS (Twilio Engine)</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Twilio_API-F22F46?style=flat-square&logo=twilio&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      </p>
-      <ul>
-        <li><b>Automated Twilio Subaccounts:</b> Python backend engine automating subaccount creation and dedicated phone provisioning for UK hospitality clients.</li>
-        <li><b>Multi-Tier Role Hierarchy:</b> Granular permission models for London Super Admins, Marketing Agencies, and individual Restaurant Managers.</li>
-        <li><b>Stateful Marketing Workflows:</b> Automated SMS & WhatsApp customer re-engagement sequences with webhook-based delivery and ROI analytics.</li>
-      </ul>
-    </td>
-  </tr>
-
-  <!-- Row 3: n8n LinkedIn Scheduler & Java Collabify -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📅 LinkedIn Auto Post Scheduler (n8n AI)</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/n8n_Pipeline-FF6584?style=flat-square&logo=n8n&logoColor=white" />
-        <img src="https://img.shields.io/badge/LLM_Generation-8E75B2?style=flat-square" />
-        <img src="https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white" />
-        <img src="https://img.shields.io/badge/LinkedIn_OAuth2-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-      </p>
-      <ul>
-        <li><b>Autonomous AI Publishing:</b> Built an end-to-end n8n pipeline that generates tailored post copy, hashtags, and scheduling matrices based on dynamic content categories.</li>
-        <li><b>Queue Management:</b> Integrated Airtable content queues with error triggers, retry policies, and automated status notifications.</li>
-        <li><b>Hands-Free Automation:</b> Zero-touch 24/7 publishing utilizing secure LinkedIn OAuth2 authentication.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">👥 Collabify — Enterprise SaaS Platform</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java_Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Hibernate_JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS_Ubuntu-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-      </p>
-      <ul>
-        <li><b>UML-Driven Architecture:</b> Rigorously designed Spring Boot backend following enterprise domain-driven design and strict CORS policies.</li>
-        <li><b>Relational Persistence:</b> Complex PostgreSQL schema modeling using JPA / Hibernate with indexing and transaction management.</li>
-        <li><b>AWS Deployment:</b> Standardized build environments using Maven on Ubuntu EC2 instances.</li>
-      </ul>
-    </td>
-  </tr>
-
-  <!-- Row 4: Hospital Management & FastScanAttend -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏥 AI Hospital Management System</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C%2B%2B_Expert-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/Qt_Framework-41CD52?style=flat-square&logo=qt&logoColor=white" />
-        <img src="https://img.shields.io/badge/DeepSeek_AI_API-1E293B?style=flat-square" />
-        <img src="https://img.shields.io/badge/Cross--Platform-gray?style=flat-square" />
-      </p>
-      <ul>
-        <li><b>Native Event-Driven Desktop Application:</b> 100% cross-platform (Windows & Linux) high-speed medical UI engineered in modern C++ and Qt.</li>
-        <li><b>DeepSeek Medical AI Integration:</b> Asynchronous network pipelines calling DeepSeek REST API for diagnostic assistance and doctor triage support.</li>
-        <li><b>Complete Medical ERP:</b> Modules for patient records, billing, prescription tracking, and appointment queues.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ FastScanAttend — Biometric System</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python_IPC-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/C_Drivers-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-        <img src="https://img.shields.io/badge/Multithreading-2D3748?style=flat-square" />
-      </p>
-      <ul>
-        <li><b>Biometric Hardware Integration:</b> Java-based biometric attendance tracker engineered with mock data simulation and hardware-layer interoperability.</li>
-        <li><b>Python IPC Bridge:</b> Multithreaded bridge interfacing Java business logic with low-level C device drivers for non-blocking real-time scanning.</li>
-        <li><b>Automated FLEX Sync:</b> Automated payload synchronization with academic university portals.</li>
-      </ul>
-    </td>
-  </tr>
-
-  <!-- Row 5: Ride-Sharing App -->
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">🚗 Real-Time Ride-Sharing & Fare Calculation Engine</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=flat-square&logo=google-maps&logoColor=white" />
-        <img src="https://img.shields.io/badge/Real--Time_Geolocation-EA4335?style=flat-square" />
-      </p>
-      <ul>
-        <li><b>Cross-Platform Mobile App:</b> Full-stack ride-share client built with Flutter, paired with a high-concurrency Node.js / Express.js backend.</li>
-        <li><b>Dynamic Pricing Engine:</b> Engineered real-time fare calculation algorithms accounting for live distance, route traffic density, and surge thresholds.</li>
-        <li><b>Live Commuter Geotracking:</b> Integrated Google Maps SDK and WebSockets for synchronous driver-passenger location matching and live route telemetry.</li>
+        <li><b>AI Autonomous Storefront:</b> Architected an e-commerce platform on <b>Microsoft Azure</b> using <b>Next.js & React</b> with embedded autonomous AI agents for zero-touch order capture and routing, cutting manual operations by <b>70%</b>.</li>
+        <li><b>Performance & SEO Optimization:</b> Boosted organic CTR by <b>25%</b> through structured A/B testing, Core Web Vitals optimization, and semantic tagging.</li>
+        <li><b>Visual Media Architecture:</b> Designed high-fidelity brand assets and user interfaces with Adobe Lightroom and Photoshop.</li>
       </ul>
     </td>
   </tr>
@@ -277,37 +184,213 @@ With experience across startup engineering, high-scale workflow automations, and
 
 ---
 
-## 🏆 Leadership, Roles & Community Engagement
+## 🚀 Featured Engineering Projects (Comprehensive Matrix)
 
-```
-┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
-│  🏛️ FAST-NUCES & Global Tech Community Leadership                                              │
-└──────────────────────────────────────────────────────────────────────────────────────────────────┘
-```
+<table>
+  <!-- Row 1 -->
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🛍️ Tarzify AI Storefront</h3>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Azure%20Cloud-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI%20Agents-8E75B2?style=flat-square" />
+      </div>
+      <br/>
+      <ul>
+        <li>Autonomous AI agent integration for automated customer order processing and fulfillment routing.</li>
+        <li>High-conversion responsive storefront achieving 70% lower operational labor.</li>
+        <li>A/B tested visual funnel boosting organic traffic and conversion rates by 25%.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>💬 Instagram DM Automation SaaS</h3>
+        <img src="https://img.shields.io/badge/Meta%20Graph%20API-0668E1?style=flat-square&logo=meta&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Multi--Tenant-FF9900?style=flat-square" />
+      </div>
+      <br/>
+      <ul>
+        <li>Meta Graph API compliant automation SaaS for comment triggers, story replies, and follow-status verification.</li>
+        <li>Integrated lead magnet email-gating mechanics with automated message sequences.</li>
+        <li>Multi-tenant analytics dashboard tracking delivery logs, click conversions, and campaign ROI.</li>
+      </ul>
+    </td>
+  </tr>
 
-- 👨‍💼 **Deputy Head of Software | SOFTEC (FAST-NUCES)**  
-  *Leading technical engineering teams, orchestrating cloud deployment architecture, and managing digital infrastructure for Pakistan’s largest and premier flagship IT competition.*
-- 🎓 **Officer | Google Developer Student Club (GDSC)**  
-  *Advocating Google developer technologies, organizing community code labs, and mentoring junior engineers in web development and cloud systems.*
-- 📢 **Officer | Media & Public Relations (PR) Societies**  
-  *Directing media outreach, external corporate relations, and branding campaigns for national student symposiums.*
-- 🏛️ **Deputy | Office Department**  
-  *Overseeing institutional coordination, event logistics, and administrative workflows with faculty and industry sponsors.*
+  <!-- Row 2 -->
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>✈️ Aerosync Distributed Airline System</h3>
+        <img src="https://img.shields.io/badge/.NET%20Core%20(C%23)-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/Azure%20SQL%20ACID-0089D6?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+        <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </div>
+      <br/>
+      <ul>
+        <li>High-concurrency reservation engine using Azure SQL triggers and strict ACID transaction locking to eliminate double-booking race conditions.</li>
+        <li>Decoupled architecture with high-throughput REST backend on Railway and async frontend on Vercel.</li>
+        <li>Real-time asynchronous seat allocation and ticketing processing workflows.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🏨 London Hospitality SaaS (Twilio Engine)</h3>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Twilio%20API-F22F46?style=flat-square&logo=twilio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      </div>
+      <br/>
+      <ul>
+        <li>Multi-tier access management for London Super Admins, Marketing Agencies, and Restaurant venues.</li>
+        <li>Python backend automating Twilio subaccount provisioning and custom phone number pooling.</li>
+        <li>Stateful SMS and WhatsApp marketing automation with webhook analytics for conversion attribution.</li>
+      </ul>
+    </td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>📅 LinkedIn Auto Post Scheduler (n8n AI)</h3>
+        <img src="https://img.shields.io/badge/n8n%20Automation-FF6584?style=flat-square&logo=n8n&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLM%20Generation-8E75B2?style=flat-square" />
+        <img src="https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white" />
+        <img src="https://img.shields.io/badge/OAuth2-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+      </div>
+      <br/>
+      <ul>
+        <li>End-to-end 24/7 publishing pipeline generating tailored copy and hashtags via AI prompts.</li>
+        <li>Airtable-backed content queue management with category tagging and scheduling logic.</li>
+        <li>Authenticated via LinkedIn OAuth2 API with automatic retry and exception monitoring.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>👥 Collabify Enterprise SaaS</h3>
+        <img src="https://img.shields.io/badge/Java%20Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS%20Cloud-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      </div>
+      <br/>
+      <ul>
+        <li>UML-designed Java / Spring Boot architecture with enterprise domain-driven design.</li>
+        <li>Secure decoupled RESTful APIs protected with strict CORS and token authentication.</li>
+        <li>Optimized PostgreSQL database modeling with JPA/Hibernate, deployed on AWS Ubuntu EC2.</li>
+      </ul>
+    </td>
+  </tr>
+
+  <!-- Row 4 -->
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🏥 AI Hospital Management System</h3>
+        <img src="https://img.shields.io/badge/C%2B%2B%20Expert-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Qt%20Desktop%20GUI-41CD52?style=flat-square&logo=qt&logoColor=white" />
+        <img src="https://img.shields.io/badge/DeepSeek%20AI%20API-1E293B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Linux%20%26%20Windows-gray?style=flat-square" />
+      </div>
+      <br/>
+      <ul>
+        <li>Cross-platform desktop ERP with event-driven GUI optimized for fast data rendering.</li>
+        <li>Asynchronous DeepSeek AI REST API integration for real-time medical triage assistance.</li>
+        <li>Full CRUD database modules for patient profiles, medical histories, and queue scheduling.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>⚡ FastScanAttend Biometric Bridge</h3>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python%20IPC-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%20Drivers-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/Multithreading-2D3748?style=flat-square" />
+      </div>
+      <br/>
+      <ul>
+        <li>Biometric attendance tracking system with mock data simulation and hardware-layer drivers.</li>
+        <li>Multithreaded Python IPC bridge connecting Java business application with low-level C drivers.</li>
+        <li>Non-blocking asynchronous hardware scanning with automated FLEX university portal sync.</li>
+      </ul>
+    </td>
+  </tr>
+
+  <!-- Row 5 -->
+  <tr>
+    <td colspan="2" valign="top">
+      <div align="center">
+        <h3>🚗 Real-Time Ride-Share & Dynamic Fare Engine</h3>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=flat-square&logo=google-maps&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dynamic%20Pricing%20Algorithm-EA4335?style=flat-square" />
+      </div>
+      <br/>
+      <ul>
+        <li>Full-stack ride-share platform with Flutter mobile frontend and scalable Node.js/Express.js backend.</li>
+        <li>Dynamic fare calculation algorithm factoring live route distance, traffic density, and demand surge.</li>
+        <li>Real-time Google Maps telemetry integration for low-latency passenger-driver location tracking.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎓 Education & Academic Background
+## 🏆 Leadership, Community & Extracurriculars
 
-- **FAST-NUCES, Lahore** — *Bachelor of Science in Software Engineering* `[2024 – 2028]`
-  - Rigorous coursework in Object-Oriented Programming, Data Structures & Algorithms, Database Systems, Computer Networks, and Software Design & Architecture.
-- **Government College University (GCU), Lahore** — *Intermediate FSc Pre-Engineering* `[Grade A+]`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ SOFTEC (FAST-NUCES)</h3>
+      <p><b>Deputy Head of Software</b></p>
+      <ul>
+        <li>Leading technical engineering teams managing the digital infrastructure of Pakistan's premier IT competition.</li>
+        <li>Overseeing event portals, live scoring architectures, and server reliability.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Google Developer Student Club (GDSC)</h3>
+      <p><b>Executive Officer & Technical Mentor</b></p>
+      <ul>
+        <li>Promoting modern Google developer technologies, cloud solutions, and AI implementations.</li>
+        <li>Mentoring junior engineers in full-stack web development and software design principles.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📢 Media & Public Relations Societies</h3>
+      <p><b>Officer</b></p>
+      <ul>
+        <li>Directing digital communication strategies, brand exposure, and media partnerships for university events.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏢 Departmental Coordination</h3>
+      <p><b>Deputy | Office Department</b></p>
+      <ul>
+        <li>Managing operational logistics, administrative efficiency, and student-faculty coordination.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📜 Certifications & Continuous Learning (26+)
+## 📜 Verified Certifications & Continuous Learning (26+)
 
 <details>
-<summary><b>🔍 Click to expand full certification portfolio (Cybersecurity, AI, Cloud & Systems)</b></summary>
+<summary><b>🔍 Click to view accredited certifications in Cybersecurity, AI, Cloud & Networks</b></summary>
 <br/>
 
 - 🛡️ **Ethical Hacking & Penetration Testing** — *EDUCBA, LearnKartS, ULSA*
@@ -318,53 +401,70 @@ With experience across startup engineering, high-scale workflow automations, and
 - 💻 **Introduction to Computers and Operating Systems Security** — *Microsoft*
 - 🌐 **Network Architecture & Protocols** — *Google*
 - 🧠 **AI For Everyone** — *DeepLearning.AI*
-- 🔗 *View full list of 26+ verified certifications on [LinkedIn Profile](https://linkedin.com/in/malikabdullah1786).*
+- 🔗 *View full verification links and credentials on [LinkedIn Profile](https://linkedin.com/in/malikabdullah1786).*
 
 </details>
 
 ---
 
-## 📊 Dynamic GitHub Activity & Metrics
+## 📈 Real-Time GitHub Analytics & Activity Dashboard
 
 <div align="center">
+
+  <!-- GITHUB STATS & TOP LANGS -->
   <table border="0">
     <tr>
       <td>
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=malikabdullah1786&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Muhammad Abdullah GitHub Stats" />
+        <a href="https://github.com/malikabdullah1786">
+          <img height="185em" src="https://github-readme-stats.vercel.app/api?username=malikabdullah1786&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Muhammad Abdullah GitHub Stats" />
+        </a>
       </td>
       <td>
-        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikabdullah1786&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Muhammad Abdullah Top Languages" />
+        <a href="https://github.com/malikabdullah1786">
+          <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikabdullah1786&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Muhammad Abdullah Top Languages" />
+        </a>
       </td>
     </tr>
   </table>
 
+  <!-- STREAK STATS -->
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=malikabdullah1786&theme=tokyonight&hide_border=true" alt="GitHub Streak Tracker" />
+    <a href="https://github.com/malikabdullah1786">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=malikabdullah1786&theme=tokyonight&hide_border=true" alt="Muhammad Abdullah Streak Stats" />
+    </a>
   </p>
+
 </div>
 
 ---
 
-## 📬 Get In Touch / Let's Collaborate
+## 📬 Let's Connect & Collaborate
 
-I am always interested in discussing **high-impact software engineering opportunities**, **scalable SaaS collaborations**, **AI workflow automations**, or open-source projects!
+I am open to **Full-Stack Engineering Opportunities**, **Autonomous AI / n8n Workflow Consulting**, and **SaaS Co-founding / Collaborations**.
 
 <div align="center">
+
   <a href="https://linkedin.com/in/malikabdullah1786" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://malikabdullah1786.tarzify.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Explore%20Tarzify%20Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio%20Website-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:malikabdullah1786@gmail.com">
-    <img src="https://img.shields.io/badge/Email-malikabdullah1786%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email%20Direct-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/923094561786" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <!-- FOOTER BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=110&section=footer" width="100%" alt="Footer Banner" />
 </div>
