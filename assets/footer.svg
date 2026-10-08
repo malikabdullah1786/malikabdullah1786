@@ -1,0 +1,55 @@
+<svg fill="none" viewBox="0 0 900 80" width="900" height="80" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .footer-container {
+          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+          width: 100%;
+          height: 80px;
+          border-radius: 12px;
+          background: linear-gradient(135deg, #090d16 0%, #0d1527 50%, #151d38 100%);
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          position: relative;
+          overflow: hidden;
+          border: 1px solid rgba(56, 189, 248, 0.2);
+        }
+
+        .wave-top {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 3px;
+          background: linear-gradient(90deg, #38bdf8, #818cf8, #c084fc, #38bdf8);
+          background-size: 300% 100%;
+          animation: gradient-move 4s linear infinite;
+        }
+
+        .footer-text {
+          color: #94a3b8;
+          font-size: 13px;
+          font-weight: 500;
+          letter-spacing: 1px;
+        }
+
+        .highlight {
+          color: #38bdf8;
+          font-weight: 600;
+        }
+
+        @keyframes gradient-move {
+          0% { background-position: 0% 50%; }
+          100% { background-position: 100% 50%; }
+        }
+      </style>
+      <div class="footer-container">
+        <div class="wave-top"></div>
+        <div class="footer-text">
+          Crafted with 💡 by <span class="highlight">Muhammad Abdullah</span> • FAST-NUCES Lahore
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

@@ -1,9 +1,11 @@
 <div align="center">
 
-  <!-- TOP HERO BANNER (Animated Waving Gradient) -->
+  <!-- SELF-HOSTED 100% RELIABLE ZERO-DOWNTIME HERO BANNER -->
   <a href="https://malikabdullah1786.tarzify.com">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=Muhammad%20Abdullah&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%26%20AI%20Automation%20Architect&descFontSize=17&descAlignY=62&fontColor=ffffff&animation=fadeIn" width="100%" alt="Muhammad Abdullah - Hero Banner" />
+    <img src="assets/header.svg" width="100%" alt="Muhammad Abdullah - Hero Banner" />
   </a>
+
+  <br/><br/>
 
   <!-- DYNAMIC ANIMATED TYPING TERMINAL -->
   <a href="https://malikabdullah1786.tarzify.com">
@@ -368,12 +370,12 @@
 
 <div align="center">
 
-  <!-- GITHUB STATS & TOP LANGS (WITHOUT ARBITRARY RANK BADGE) -->
+  <!-- GITHUB STATS & TOP LANGS -->
   <table border="0">
     <tr>
       <td>
         <a href="https://github.com/malikabdullah1786">
-          <img height="185em" src="https://github-readme-stats.vercel.app/api?username=malikabdullah1786&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true" alt="Muhammad Abdullah GitHub Stats" />
+          <img height="185em" src="https://github-readme-stats.vercel.app/api?username=malikabdullah1786&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="Muhammad Abdullah GitHub Stats" />
         </a>
       </td>
       <td>
@@ -422,6 +424,6 @@ I am open to **Full-Stack Engineering Opportunities**, **Autonomous AI / n8n Wor
 <br/>
 
 <div align="center">
-  <!-- FOOTER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <!-- SELF-HOSTED 100% RELIABLE FOOTER -->
+  <img src="assets/footer.svg" width="100%" alt="Footer Banner" />
 </div>

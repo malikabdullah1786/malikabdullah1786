@@ -1,0 +1,119 @@
+<svg fill="none" viewBox="0 0 900 230" width="900" height="230" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+          width: 100%;
+          height: 230px;
+          border-radius: 16px;
+          background: linear-gradient(135deg, #090d16 0%, #0d1527 50%, #151d38 100%);
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          position: relative;
+          overflow: hidden;
+          box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+          border: 1px solid rgba(56, 189, 248, 0.2);
+        }
+
+        .glow-circle-1 {
+          position: absolute;
+          width: 320px;
+          height: 320px;
+          background: radial-gradient(circle, rgba(56, 189, 248, 0.25) 0%, rgba(56, 189, 248, 0) 70%);
+          top: -100px;
+          left: -80px;
+          border-radius: 50%;
+          filter: blur(20px);
+          animation: pulse 6s ease-in-out infinite alternate;
+        }
+
+        .glow-circle-2 {
+          position: absolute;
+          width: 350px;
+          height: 350px;
+          background: radial-gradient(circle, rgba(147, 51, 234, 0.25) 0%, rgba(147, 51, 234, 0) 70%);
+          bottom: -120px;
+          right: -80px;
+          border-radius: 50%;
+          filter: blur(20px);
+          animation: pulse 7s ease-in-out infinite alternate-reverse;
+        }
+
+        .wave-bar {
+          position: absolute;
+          bottom: 0;
+          left: 0;
+          width: 100%;
+          height: 4px;
+          background: linear-gradient(90deg, #38bdf8, #818cf8, #c084fc, #38bdf8);
+          background-size: 300% 100%;
+          animation: gradient-move 4s linear infinite;
+        }
+
+        .title {
+          font-size: 38px;
+          font-weight: 800;
+          background: linear-gradient(90deg, #ffffff 0%, #38bdf8 50%, #818cf8 100%);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          margin: 0;
+          letter-spacing: 2px;
+          text-transform: uppercase;
+        }
+
+        .subtitle {
+          font-size: 16px;
+          font-weight: 500;
+          color: #94a3b8;
+          margin-top: 10px;
+          letter-spacing: 0.5px;
+        }
+
+        .badges {
+          display: flex;
+          gap: 12px;
+          margin-top: 18px;
+        }
+
+        .tag {
+          padding: 6px 14px;
+          background: rgba(15, 23, 42, 0.8);
+          border: 1px solid rgba(56, 189, 248, 0.3);
+          border-radius: 20px;
+          font-size: 12px;
+          font-weight: 600;
+          color: #38bdf8;
+          display: flex;
+          align-items: center;
+          gap: 6px;
+        }
+
+        @keyframes pulse {
+          0% { transform: scale(0.9); opacity: 0.6; }
+          100% { transform: scale(1.1); opacity: 1; }
+        }
+
+        @keyframes gradient-move {
+          0% { background-position: 0% 50%; }
+          100% { background-position: 100% 50%; }
+        }
+      </style>
+
+      <div class="container">
+        <div class="glow-circle-1"></div>
+        <div class="glow-circle-2"></div>
+        <h1 class="title">Muhammad Abdullah</h1>
+        <p class="subtitle">Software Engineer • AI Implementation &amp; Automation Architect • Full-Stack Developer</p>
+        <div class="badges">
+          <span class="tag">⚡ BS Software Engineering @ FAST-NUCES</span>
+          <span class="tag">🤖 250+ n8n AI Automations</span>
+          <span class="tag">☁️ Cloud &amp; DevOps Engineer</span>
+        </div>
+        <div class="wave-bar"></div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
