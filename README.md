@@ -2,12 +2,12 @@
 
   <!-- TOP HERO BANNER (Animated Waving Gradient) -->
   <a href="https://malikabdullah1786.tarzify.com">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=250&section=header&text=MUHAMMAD%20ABDULLAH&fontSize=44&fontAlignY=36&desc=Full%20Stack%20Architect%20%E2%80%A2%20AI%20%26%20Workflow%20Automation%20Expert%20%E2%80%A2%20Cloud%20Engineer&descFontSize=17&descAlignY=60&fontColor=ffffff&animation=fadeIn" width="100%" alt="Muhammad Abdullah - Hero Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=Muhammad%20Abdullah&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%26%20AI%20Automation%20Architect&descFontSize=17&descAlignY=62&fontColor=ffffff&animation=fadeIn" width="100%" alt="Muhammad Abdullah - Hero Banner" />
   </a>
 
   <!-- DYNAMIC ANIMATED TYPING TERMINAL -->
   <a href="https://malikabdullah1786.tarzify.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Architecting+Scalable+Full-Stack+%26+Microservices+Platforms;%F0%9F%A4%96+Deploying+Autonomous+AI+Agents+%26+250%2B+n8n+Automations;%E2%98%81%EF%B8%8F+DevOps+%26+Cloud+Pipelines+(Azure+%7C+AWS+%7C+Docker+%7C+CI%2FCD);%F0%9F%8E%93+BS+Software+Engineering+%40+FAST-NUCES+Lahore" alt="Typing Terminal" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Building+Scalable+Full-Stack+Platforms;Autonomous+AI+Agents+%26+250%2B+n8n+Automations;DevOps+%26+Cloud+Pipelines+(Azure%2C+AWS%2C+Docker);BS+Software+Engineering+%40+FAST-NUCES+Lahore" alt="Typing Terminal" />
   </a>
 
   <br/><br/>
@@ -33,13 +33,6 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 
-  <br/><br/>
-
-  <!-- 3D PROFILE TROPHIES -->
-  <a href="https://github.com/malikabdullah1786">
-    <img src="https://github-profile-trophy.vercel.app/?username=malikabdullah1786&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Muhammad Abdullah Trophies" />
-  </a>
-
 </div>
 
 <br/>
@@ -49,7 +42,7 @@
 <!-- ABOUT / IDENTITY SECTION -->
 <table width="100%" align="center" border="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
       <h2>🚀 About Me & Engineering Philosophy</h2>
       <p>
         I am a <b>Software Engineer & AI Automation Architect</b> based in Lahore, Pakistan, pursuing my <b>BS in Software Engineering at FAST-NUCES (2024–2028)</b>. I bridge the gap between heavy enterprise backend infrastructure, modern cloud ecosystems, and autonomous AI automation pipelines.
@@ -61,11 +54,7 @@
         <li>🏛️ <b>Leadership:</b> Deputy Head of Software at <b>SOFTEC (FAST-NUCES)</b> & Officer at <b>Google Developer Student Club (GDSC)</b>.</li>
       </ul>
     </td>
-    <td width="40%" valign="top">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=malikabdullah1786&repo=malikabdullah1786&theme=tokyonight&hide_border=true" width="100%" alt="Profile Pin" />
-      </div>
-      <br/>
+    <td width="35%" valign="top">
       <table width="100%">
         <tr>
           <td>📍 <b>Location:</b></td>
@@ -82,6 +71,10 @@
         <tr>
           <td>🌐 <b>Founder:</b></td>
           <td><a href="https://malikabdullah1786.tarzify.com">Tarzify</a></td>
+        </tr>
+        <tr>
+          <td>📜 <b>Certifications:</b></td>
+          <td>26+ Verified Credentials</td>
         </tr>
       </table>
     </td>
@@ -112,7 +105,7 @@
   <img src="https://img.shields.io/badge/Next.js%20(App%20Router)-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter%20(Cross--Platform)-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3%20%2F%20Tailwind-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Qt%20Desktop%20GUI-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
 </p>
 
@@ -466,5 +459,5 @@ I am open to **Full-Stack Engineering Opportunities**, **Autonomous AI / n8n Wor
 
 <div align="center">
   <!-- FOOTER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=110&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
